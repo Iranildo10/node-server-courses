@@ -23,6 +23,5 @@ Essa API é uma aplicação básica de gerenciamento de cursos, permitindo a cri
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 - ![Express.js](https://img.icons8.com/color/48/000000/express.png)
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![React JS](https://img.icons8.com/color/48/000000/react-native.png)
 
 
